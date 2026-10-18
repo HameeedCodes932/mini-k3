@@ -1,0 +1,4 @@
+# Keep the CUDA-enabled torch supplied by Colab.
+transformers==4.57.6
+datasets==3.6.0
+# Colab provides numpy, pandas and matplotlib; versions are recorded with results.
